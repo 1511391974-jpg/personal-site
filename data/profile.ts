@@ -23,11 +23,11 @@ export const profile = {
     { platform: "电话", value: "电话沟通", url: "tel:#", icon: "phone" },
   ],
   platforms: [
-    { name: "抖音", image: "/images/douyin-cover.jpeg", color: "hover:border-pink-500/40 hover:text-pink-400", url: "#" },
-    { name: "B站", image: "/images/bilibili-cover.jpeg", color: "hover:border-cyan-500/40 hover:text-cyan-400", url: "#" },
-    { name: "小红书", image: "/images/xiaohongshu-cover.jpg", color: "hover:border-red-500/40 hover:text-red-400", url: "#" },
-    { name: "YouTube", image: "/images/youtube-cover.png", color: "hover:border-red-600/40 hover:text-red-500", url: "#" },
-    { name: "GitHub", image: "/images/github-cover.jpeg", color: "hover:border-zinc-400/40 hover:text-zinc-300", url: "#" },
+    { name: "抖音", image: "/personal-site/images/douyin-cover.jpeg", color: "hover:border-pink-500/40 hover:text-pink-400", url: "#" },
+    { name: "B站", image: "/personal-site/images/bilibili-cover.jpeg", color: "hover:border-cyan-500/40 hover:text-cyan-400", url: "#" },
+    { name: "小红书", image: "/personal-site/images/xiaohongshu-cover.jpg", color: "hover:border-red-500/40 hover:text-red-400", url: "#" },
+    { name: "YouTube", image: "/personal-site/images/youtube-cover.png", color: "hover:border-red-600/40 hover:text-red-500", url: "#" },
+    { name: "GitHub", image: "/personal-site/images/github-cover.jpeg", color: "hover:border-zinc-400/40 hover:text-zinc-300", url: "#" },
   ],
-  avatar: "/images/avatar.jpg",
+  avatar: "/personal-site/images/avatar.jpg",
 };

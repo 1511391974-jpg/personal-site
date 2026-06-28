@@ -27,7 +27,7 @@ export const videoCategories: VideoCategory[] = [
         duration: "3:24",
         gradient: "from-cyan-500/20 to-blue-500/20",
         accentColor: "group-hover:text-cyan-400",
-        cover: "/images/ai-cover.jpg",
+        cover: "/personal-site/images/ai-cover.jpg",
       },
       {
         title: "AIGC 视频短片",
@@ -35,7 +35,7 @@ export const videoCategories: VideoCategory[] = [
         duration: "5:12",
         gradient: "from-violet-500/20 to-pink-500/20",
         accentColor: "group-hover:text-violet-400",
-        videoUrl: "/videos/aigc-demo.mp4",
+        videoUrl: "/personal-site/videos/aigc-demo.mp4",
       },
       {
         title: "AI 音乐 MV",
@@ -57,7 +57,7 @@ export const videoCategories: VideoCategory[] = [
         duration: "2:15",
         gradient: "from-amber-500/20 to-orange-500/20",
         accentColor: "group-hover:text-amber-400",
-        videoUrl: "/videos/daily-edit.mp4",
+        videoUrl: "/personal-site/videos/daily-edit.mp4",
       },
       {
         title: "旅游vlog",
@@ -65,7 +65,7 @@ export const videoCategories: VideoCategory[] = [
         duration: "2:48",
         gradient: "from-green-500/20 to-emerald-500/20",
         accentColor: "group-hover:text-green-400",
-        videoUrl: "/videos/travel-vlog.mp4",
+        videoUrl: "/personal-site/videos/travel-vlog.mp4",
       },
       {
         title: "AI 工具测评",
@@ -87,7 +87,7 @@ export const videoCategories: VideoCategory[] = [
         duration: "1:30",
         gradient: "from-rose-500/20 to-pink-500/20",
         accentColor: "group-hover:text-rose-400",
-        videoUrl: "/videos/travel-promo.mp4",
+        videoUrl: "/personal-site/videos/travel-promo.mp4",
       },
       {
         title: "电商产品展示",
